@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form1.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Properties.Resources.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\bin\Debug\DJhelper.exe.config
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\bin\Debug\DJhelper.exe
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\bin\Debug\DJhelper.pdb
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.exe
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.pdb
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form2.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form3.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form4.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form5.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form6.resources
+C:\Users\User\Desktop\Проект по БД\DJhelper\DJhelper\DJhelper\obj\Debug\DJhelper.Form7.resources
